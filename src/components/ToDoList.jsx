@@ -1,4 +1,4 @@
-import { ToDoItem } from "./ToDoitem";
+import ToDoItem from "./ToDoitem";
 
 function ToDoList({ todolistarr, handleEdit, handleDelete, handleCheckbox }) {
     return (
