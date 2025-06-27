@@ -19,4 +19,4 @@ function ToDoList({ todolistarr, handleEdit, handleDelete, handleCheckbox }) {
     );
 }
 
-export { ToDoList };
+export default ToDoList;

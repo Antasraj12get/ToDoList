@@ -2,8 +2,9 @@
 
 
 import './index.css';
-import Header from './components/Header';
-import { ToDoList } from './components/ToDoList';
+// import Header from './components/Header';
+import Header from './components/Header.jsx';
+import ToDoList from './components/ToDoList.jsx';
 import { useState } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 
